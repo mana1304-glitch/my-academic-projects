@@ -1,2 +1,2 @@
-# my-academic-projects
+# Project name- Medicure
 this is my academic project
